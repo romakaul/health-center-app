@@ -1,0 +1,9 @@
+DROP TABLE [UmdHealthCentre.Prescribed];
+DROP TABLE [UmdHealthCentre.Treats];
+DROP TABLE [UmdHealthCentre.ParticipatesIn];
+DROP TABLE [UmdHealthCentre.Treatment];
+DROP TABLE [UmdHealthCentre.Medicine];
+DROP TABLE [UmdHealthCentre.Insurance];
+DROP TABLE [UmdHealthCentre.StudentDB];
+DROP TABLE [UmdHealthCentre.PatientRecord];
+DROP TABLE [UmdHealthCentre.Doctor];
